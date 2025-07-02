@@ -20,3 +20,33 @@ Fate sempre il file README.md prima di cominciare a lavorare e scomponete il pro
 Numero minimo di push: 5
 
 Buon lavoro e buon divertimento! 🙂
+
+## Svolgimento teorico dell'esercizio
+
+### Passo 1
+
+Creo il ciclo for per stampare numeri da 1 a 100.
+Stampo per provarne il funzionamneto.
+
+### Passo 2
+
+Definisco le variabili.
+
+### Passo 3
+
+Creo l'espressione per stampare 'FizzBuzz' al posto dei multipli sia di 3 che di 5.
+Stampo per provarne il funzionamneto.
+
+### Passo 4
+
+Creo l'espressione per stampare 'Fizz' al posto dei multipli di 3.
+Stampo per provarne il funzionamneto.
+
+### Passo 5
+
+Creo l'espressione per stampare 'Buzz' al posto dei multipli di 5.
+Stampo per provarne il funzionamneto.
+
+### Passo 6
+
+Se tutto il processo funziona correttamente, creo un unico consol.log all'interno del for per stampare il tutto.
