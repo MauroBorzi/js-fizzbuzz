@@ -9,6 +9,12 @@ for(let i = 1; i <= 100; i++){
     nameReplacement = "FizzBuzz"
   }
 
+  // stampo 'Buzz' al posto dei multipli di 5
+  else if (i % 5 == 0) {
+    nameReplacement = "Buzz"
+  }
+
+  // stampo il tutto
   console.log(nameReplacement)
 }
 
