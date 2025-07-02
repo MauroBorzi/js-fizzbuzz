@@ -14,6 +14,11 @@ for(let i = 1; i <= 100; i++){
     nameReplacement = "Buzz"
   }
 
+  // stampo 'Fizz' al posto dei multipli di 3 
+  else if (i % 3 == 0) {
+    nameReplacement = "Fizz"
+  }
+
   // stampo il tutto
   console.log(nameReplacement)
 }
